@@ -13,7 +13,7 @@ public class ButtonScript : MonoBehaviour
     public AudioSource audioSource;
 
     bool play_1st_time = true;
-    // public GameObject ArCamera;//
+    // public GameObject ArCamera;
     // Start is called before the first frame update
     void Start()
     {
